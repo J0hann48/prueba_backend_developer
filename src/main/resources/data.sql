@@ -1,0 +1,1 @@
+insert into formulario (nombre, apellido)values('Prueba 1', 'Spring 2');
